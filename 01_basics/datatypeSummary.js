@@ -30,3 +30,6 @@ const myFunction = function(){
     console.log("hello world");    //function
 }
 
+//******** Memory allocation********/
+
+// stack (primitive) heap(non primitive)
