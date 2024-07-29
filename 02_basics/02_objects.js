@@ -94,7 +94,7 @@ const user = [
 ]
 
 
-console.log(user[1].email);
+// console.log(user[1].email);
 console.log(tinderUSer);
 console.log(Object.keys(tinderUSer));
 console.log(Object.values(tinderUSer));
