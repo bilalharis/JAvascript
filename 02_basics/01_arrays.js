@@ -51,7 +51,8 @@ const useable_new_array = new_array.flat(Infinity)   //arrange every sub array i
 
 console.log(Array.isArray("Haris"));
 console.log(Array.from("Haris"));
-console.log(Array.from({name: "Haris"})); 
+
+// console.log(Array.from({name: "Haris"})); 
 //interesting we should have to tell we want to make array of keys or values
 
 
