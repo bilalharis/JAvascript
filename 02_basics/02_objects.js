@@ -95,6 +95,25 @@ const user = [
 
 
 // console.log(user[1].email);
-console.log(tinderUSer);
-console.log(Object.keys(tinderUSer));
-console.log(Object.values(tinderUSer));
+// console.log(tinderUSer);
+// console.log(Object.keys(tinderUSer));
+// console.log(Object.values(tinderUSer));
+
+
+const course = {
+    coursename: "js in hindi",
+    price: "999",
+    courseInstructor: "haris"
+
+}
+
+const {courseInstructor: instructor} = course
+
+// console.log(courseInstructor);
+console.log(instructor);
+
+{
+    "name": "haris",
+    "coursename": "js in hindi",      //Json structure example
+    "price": "free"
+}
